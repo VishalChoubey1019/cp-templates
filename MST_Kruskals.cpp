@@ -1,4 +1,4 @@
-// Simran Vedpathak
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -49,8 +49,7 @@ void Union(ll a, ll b)
         }
     }
 }
-
-int main()
+void solve()
 {
     ll n,m;
     cin>>n>>m;
@@ -71,4 +70,12 @@ int main()
         Union(x,y);
         
     }
+}
+int main()
+{
+    FAST;
+    ll n;
+    cin >> n;
+    while (n--)
+        solve();
 }
