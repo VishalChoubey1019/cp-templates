@@ -49,7 +49,8 @@ void Union(ll a, ll b)
         }
     }
 }
-void solve()
+
+int main()
 {
     ll n,m;
     cin>>n>>m;
@@ -70,12 +71,4 @@ void solve()
         Union(x,y);
         
     }
-}
-int main()
-{
-    FAST;
-    ll n;
-    cin >> n;
-    while (n--)
-        solve();
 }
