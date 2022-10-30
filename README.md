@@ -33,6 +33,9 @@ Will help me a lot if you could add some of yours as well
 
 This project exists thanks to all the people who contribute.
 
+
 <a href="https://github.com/VishalChoubey1019/cp-templates/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=VishalChoubey1019/cp-templates" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
