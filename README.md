@@ -36,8 +36,3 @@ This project exists thanks to all the people who contribute.
 <a href="https://github.com/VishalChoubey1019/cp-templates/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=VishalChoubey1019/cp-templates" />
 </a>
-
-
-## LICENSE
-
-[MIT @ VishalChoubey1019](./LICENSE.md)
